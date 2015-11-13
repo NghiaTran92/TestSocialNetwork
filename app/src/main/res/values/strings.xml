@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestFacebook</string>
+    <!--acc test-->
+    <string name="facebook_app_id">1513845312247013</string>
+
+    <string name="server_client_id">880699361476-dt5811vjt75ompgb3si7rnb7qj9u7c9g.apps.googleusercontent.com</string>
+</resources>
